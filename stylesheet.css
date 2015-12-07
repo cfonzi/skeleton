@@ -1,0 +1,43 @@
+/*CSS Stylesheet*/
+
+/** {border: 1px solid black;}*/
+
+body {
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    background-color: #FFB894;}
+
+.container {
+    background-color: white;
+    padding: 20px;}
+
+img {
+    max-width: 100%;}
+
+.menuheader {
+    padding-bottom: 20px;}
+
+.menustart {
+    padding-bottom: 20px;}
+
+.menuimage {
+    padding-bottom: 20px;}
+
+h1 { 
+    font-size: 24px;
+    color: coral;}
+
+h2 {
+    font-size: 30px;
+    color: coral;}
+
+h3 {
+    font-size: 80px;
+    padding-top: 40px;}
+
+p {
+    color: dimgray;
+    text-align: justify;}
+ul li {
+    display: inline-block;
+    text-decoration: none;}
